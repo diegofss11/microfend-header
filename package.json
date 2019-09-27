@@ -1,5 +1,5 @@
 {
-  "name": "header",
+  "name": "microfend-header",
   "author": {
     "name": "Diego Freitas",
     "email": "diegofss11@gmail.com"
@@ -38,6 +38,7 @@
     "@babel/preset-react": "^7.0.0",
     "@babel/register": "^7.6.2",
     "express": "^4.17.1",
-    "ignore-styles": "^5.0.1"
+    "ignore-styles": "^5.0.1",
+    "terser": "^3.14.1"
   }
 }
