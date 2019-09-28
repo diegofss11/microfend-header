@@ -6,4 +6,4 @@ COPY . .
 
 RUN npm run build
 
-CMD PORT=$PORT npm run start:prod
+CMD PORT=$PORT npm run start

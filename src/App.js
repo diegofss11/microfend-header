@@ -2,12 +2,11 @@ import React from 'react';
 import './App.css';
 
 export default () => (
-  <header>
+  <header className='header'>
     <h1>Logo</h1>
     <nav>
       <ul>
-        <li>About</li>
-        <li>Contact</li>
+        <li>Home</li>
       </ul>
     </nav>
   </header>
